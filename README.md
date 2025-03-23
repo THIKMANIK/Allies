@@ -1,4 +1,7 @@
-Bitcoin Transaction Simulation (P2PKH & P2SH-P2WPKH)
+Team Name: ALLIES
+
+Team Members: • 230001077,Thikmanik nongrang • 230001022, Darpan  • 230005025, Praneetha • 230001028 , RishitaBitcoin Transaction Simulation (P2PKH & P2SH-P2WPKH)
+
 Overview
 This project demonstrates how to create and analyze Bitcoin transactions using:
 
